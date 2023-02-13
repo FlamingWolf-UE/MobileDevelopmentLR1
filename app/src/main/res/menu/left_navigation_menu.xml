@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <item
+        android:title="Home"
+        android:id="@+id/homeButton" />
+    <item
+        android:title="Shop"
+        android:id="@+id/shopButton" />
+    <item
+        android:title="Bonuses"
+        android:id="@+id/bonusButton" />
+</menu>
